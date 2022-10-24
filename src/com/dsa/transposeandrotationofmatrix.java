@@ -1,6 +1,6 @@
 package com.dsa;
 
-public class transposeandrotate {
+public class transposeandrotationofmatrix {
     static void rotate(int [] [] arr){
         int n=arr.length;
         for(int i=0;i<n;i++){
